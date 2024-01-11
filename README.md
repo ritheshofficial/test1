@@ -2,4 +2,4 @@
 
 **Description:** loremipsum description
 
-**Stack:** Tailwind, Stack2, Stack3
+**Stack:** React, Stack2, Stack3
